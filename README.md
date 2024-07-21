@@ -2,6 +2,9 @@
 
 A collection of interactive problems and solutions using C and Java.
 
+## Problems
+1.Interactive Sorting 
+
 ## About
 
 This project is created and maintained by [@Nivasnvz](https://github.com/Nivasnvz).
