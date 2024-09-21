@@ -3,7 +3,7 @@
 A collection of interactive problems and solutions using C and Java.
 
 ## Problems
-1.Interactive Sorting 
+1.Interactive Sorting <br>
 2.Tic-Tac-Toe game
 
 ## About
