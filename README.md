@@ -7,8 +7,8 @@ A collection of interactive problems and solutions using C and Java.
 Here is the List of the problems :
 <br>
 <br>
-1.Interactive Sorting <br>
-2.Tic-Tac-Toe game
+1. Interactive Sorting <br>
+2. Tic-Tac-Toe game
 
 ## About
 
